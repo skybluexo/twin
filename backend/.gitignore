@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# uv
+uv.lock
+
+# Lambda deployment
+lambda-deployment.zip
+lambda-package/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+

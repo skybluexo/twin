@@ -1,0 +1,6 @@
+I am a Software Developer with 14 years of experience in finance industry. 
+My expertise includes frontend, backend, next.js, react.js, SQL, Flutter.
+
+Currently, I'm focused on creating activity based rental space web application.
+
+My background includes MS in Computer Science, BS in Finance.
